@@ -34,4 +34,4 @@
 ### Краткая информация о данных
 ....
 
-:arrow_up:[к оглавлению](hhttps://github.com/31napoleon31/SF_DS/tree/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](hhttps://github.com/31napoleon31/SF_DS/tree/main/project_0/README.md##Оглавление)
